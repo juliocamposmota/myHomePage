@@ -62,7 +62,6 @@ Próximos passos:
 Time responsável pelo desenvolvimento deste projeto
 
 | [<img src="https://avatars3.githubusercontent.com/u/68956245?s=460&u=b7f1c48f3332d7dc29f2ec71c70116c6efff47d0&v=4" width=115><br><sub>Júlio Mota</sub>](https://github.com/juliocamposmota) |
-| :---: | :---: | :---: 
 
 ## Licença 
 
